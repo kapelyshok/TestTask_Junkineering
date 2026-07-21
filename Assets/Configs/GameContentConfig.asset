@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c5a02d4ffe2e42159a8ea766d7e522db, type: 3}
+  m_Name: GameContentConfig
+  m_EditorClassIdentifier: Assembly-CSharp::Junkineering.Content.Configuration.Addressables.AddressablesGameContentConfig
+  targetPrefab:
+    m_AssetGUID: a29f05261490c48448d2b6658c168c6a
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_SubObjectGUID: 
+  fallbackTexture:
+    m_AssetGUID: fa11019f0ac1484192192772cc415b83
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_SubObjectGUID: 
+  roundTextures:
+  - m_AssetGUID: fa11119f0ac1484192192772cc415b83
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_SubObjectGUID: 
+  - m_AssetGUID: fa11219f0ac1484192192772cc415b83
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_SubObjectGUID: 
+  - m_AssetGUID: fa11319f0ac1484192192772cc415b83
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_SubObjectGUID: 
+  - m_AssetGUID: fa11419f0ac1484192192772cc415b83
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_SubObjectGUID: 
